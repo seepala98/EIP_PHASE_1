@@ -182,7 +182,41 @@ ________________________________________________________________________________
 ## Best Accuracy : 
 
 ```
-360/360 [==============================] - 51s 142ms/step - loss: 2.2692 - gender_output_loss: 0.1436 - image_quality_output_loss: 0.3243 - age_output_loss: 0.3663 - weight_output_loss: 0.3069 - bag_output_loss: 0.2804 - footwear_output_loss: 0.2759 - pose_output_loss: 0.1818 - emotion_output_loss: 0.2801 - gender_output_acc: 0.9402 - image_quality_output_acc: 0.8760 - age_output_acc: 0.8655 - weight_output_acc: 0.8886 - bag_output_acc: 0.8944 - footwear_output_acc: 0.8934 - pose_output_acc: 0.9318 - emotion_output_acc: 0.9063 - val_loss: 11.0289 - val_gender_output_loss: 0.5063 - val_image_quality_output_loss: 1.4282 - val_age_output_loss: 2.3395 - val_weight_output_loss: 1.4962 - val_bag_output_loss: 1.2897 - val_footwear_output_loss: 1.1025 - val_pose_output_loss: 0.7405 - val_emotion_output_loss: 1.4243 - val_gender_output_acc: 0.8286 - val_image_quality_output_acc: 0.5247 - val_age_output_acc: 0.3574 - val_weight_output_acc: 0.5610 - val_bag_output_acc: 0.5897 - val_footwear_output_acc: 0.6472 - val_pose_output_acc: 0.7797 - val_emotion_output_acc: 0.6386
+360/360 [==============================] - 51s 142ms/step
+- loss: 2.2692 
+- gender_output_loss: 0.1436 
+- image_quality_output_loss: 0.3243 
+- age_output_loss: 0.3663 
+- weight_output_loss: 0.3069 
+- bag_output_loss: 0.2804 
+- footwear_output_loss: 0.2759 
+- pose_output_loss: 0.1818 
+- emotion_output_loss: 0.2801 
+- gender_output_acc: 0.9402 
+- image_quality_output_acc: 0.8760 
+- age_output_acc: 0.8655 
+- weight_output_acc: 0.8886 
+- bag_output_acc: 0.8944 
+- footwear_output_acc: 0.8934 
+- pose_output_acc: 0.9318 
+- emotion_output_acc: 0.9063 
+- val_loss: 11.0289 
+- val_gender_output_loss: 0.5063 
+- val_image_quality_output_loss: 1.4282 
+- val_age_output_loss: 2.3395 
+- val_weight_output_loss: 1.4962 
+- val_bag_output_loss: 1.2897 
+- val_footwear_output_loss: 1.1025 
+- val_pose_output_loss: 0.7405 
+- val_emotion_output_loss: 1.4243 
+- val_gender_output_acc: 0.8286 
+- val_image_quality_output_acc: 0.5247 
+- val_age_output_acc: 0.3574 
+- val_weight_output_acc: 0.5610 
+- val_bag_output_acc: 0.5897 
+- val_footwear_output_acc: 0.6472 
+- val_pose_output_acc: 0.7797 
+- val_emotion_output_acc: 0.6386
 ```
 
 # Evaluated Result:
